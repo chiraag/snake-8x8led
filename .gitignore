@@ -1,0 +1,26 @@
+# eagle files
+eagle/*.b#*
+eagle/*.s#*
+eagle/*.drd
+eagle/*.dri
+eagle/*.drl
+eagle/*.pro
+eagle/*.ps
+eagle/test1.ctl
+
+# avr-gcc files
+firmware/snake/.dep/*
+firmware/snake/*.eep
+firmware/snake/*.elf
+firmware/snake/*.hex
+firmware/snake/*.lss
+firmware/snake/*.lst
+firmware/snake/*.map
+firmware/snake/*.o
+firmware/snake/*.sym
+firmware/snake/*.aps
+firmware/snake/*.aws
+
+# editor temporary files
+*.swp
+*~
